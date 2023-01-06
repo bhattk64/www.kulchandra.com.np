@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+  }
+  
+  li {
+    cursor: pointer;
+  }
+  
+  li:hover {
+    color: red;
+  }
+  
